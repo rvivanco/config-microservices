@@ -3,3 +3,6 @@ server:
 nombre: Raul
 apellidop: Vivanco
 apellidom: Borgonio
+variables:
+  var1: "valor1"
+  var2: "valor2"
