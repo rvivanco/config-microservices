@@ -6,4 +6,4 @@ apellidom: Borgonio
 eureka:
   client:
     serviceUrl: 
-    defaultZone: http://localhost:9000/eureka
+      defaultZone: http://localhost:9000/eureka
